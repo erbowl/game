@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ゴリラ関節",
+"dataUrl": "gorilla_nobori_v0.data.unityweb",
+"wasmCodeUrl": "gorilla_nobori_v0.wasm.code.unityweb",
+"wasmFrameworkUrl": "gorilla_nobori_v0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
